@@ -1,0 +1,5 @@
+1. Audio provider + feature provider
+2. Audio TFLite interpreter + Command recognizer 
+3. Image provider
+4. TFLite interpreter + detection responder
+5. Main loop calling all of that
